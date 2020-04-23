@@ -1,0 +1,27 @@
+using System;
+
+namespace NumberGuessingGame
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string usersname = "";
+            int e = 10;
+            string m = 20;
+            string h = 50;
+            Console.Write("Please Enter Your Name");
+            usersname = Console.ReadLine();
+            Console.WriteLine("Dear" +usersname);
+            Console.WriteLine ("You're welcome to play Our Number Guessing Game");
+            Console.WriteLine("Please Enter E for Easy Game M for Meduim and Hard For Hard Game");
+
+           for(int i = 0; i < e; i+= 2);
+           if {
+
+           }
+        
+
+        }
+    }
+}
